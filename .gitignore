@@ -6,3 +6,4 @@ nbproject/
 # comments
 cmake-build-debug/
 CMakeLists.txt
+*.txt
